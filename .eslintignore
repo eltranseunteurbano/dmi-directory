@@ -1,0 +1,12 @@
+**/.firebase
+**/.github
+**/node_modules
+**/dist
+**/build
+**/package.json
+**/yarn.lock
+**/package-lock.json
+**/.eslintrc.js
+**/tsconfig.json
+**/src/reportWebVitals.ts
+**/src/react-app-env.d.ts
